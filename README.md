@@ -97,7 +97,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/stefano-reynard-b77750337/" target="_blank">
+<a href="https://www.linkedin.com/in/stefano-reynard-b77750337/" target="_BLANK">
 <img src="https://img.shields.io/badge/linkedin:  Stefano Reynard-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -105,7 +105,7 @@
 <br>
 
 <li>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGjZlLFnqLPgBlxVSHJwvnZFlbrsQSGsnXjqLwzQhNLVmFDcMhHfrzpTCJlmrmSrBJNt" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXGjZlLFnqLPgBlxVSHJwvnZFlbrsQSGsnXjqLwzQhNLVmFDcMhHfrzpTCJlmrmSrBJNt" target="_BLANK">
 <img src="https://img.shields.io/badge/gmail:  stefanoreynard-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
