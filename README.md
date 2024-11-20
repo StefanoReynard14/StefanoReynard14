@@ -29,7 +29,7 @@
 
 - **Languages**:
     
-    ![SQL](https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
