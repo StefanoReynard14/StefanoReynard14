@@ -103,6 +103,6 @@
 
 <div align='center'>
 
-## <b>✨✨✨✨✨✨✨✨✨</b>
+## <b>✨Thanks for reading✨</b>
 
 </div>
