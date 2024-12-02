@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Front-end developer
+- I'm passionate about Front-end development
 - I'm Junior Developer
 - Personal website [link](http://sr-web.wuaze.com/?i=1)
 
