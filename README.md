@@ -11,10 +11,8 @@
 <br>
 
 - A passionate Front-end developer
-- 
-- 
+- I'm Junior Developer
 - Personal website [link](http://sr-web.wuaze.com/?i=1)
-- 
 
 <br><br>
 
@@ -105,6 +103,6 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>✨</b>
 
 </div>
